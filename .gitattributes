@@ -1,2 +1,2 @@
-*.java linguist-detectable=false
-*.py linguist-detectable=true
+*.py linguist-language=Python
+*.java linguist-language=Java
